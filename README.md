@@ -9,7 +9,7 @@
 
 ```python
 class Ashwin:
-    role        = "MS Computer Science Student"
+    role        = "QA Engineer"/"MS Computer Science Student"
     location    = "Chennai, India"
     focus       = ["Multi-Agent Orchestration", "Cloud Computing", "QA Engineering"]
     currently   = "Exploring the frontier of AI systems & intelligent automation"
